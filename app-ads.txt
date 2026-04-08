@@ -1,4 +1,5 @@
 google.com, pub-1717114120619141, DIRECT, f08c47fec0942fa0
+facebook.com, 948424524813214, DIRECT, c3e20eee3f780d68
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
 admanmedia.com, 2242, RESELLER
